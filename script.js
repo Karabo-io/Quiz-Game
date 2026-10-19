@@ -35,7 +35,7 @@ const quizQuestions = [
         ],
     },
     {
-        qustion: "What is the largest ocean on Earth?",
+        question: "What is the largest ocean on Earth?",
         answers:[
             {text: "Atlantic Ocean", correct: false},
             {text: "Indian Ocean", correct: false},

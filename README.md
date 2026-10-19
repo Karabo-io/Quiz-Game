@@ -19,15 +19,6 @@ A simple, interactive browser-based quiz game built with HTML, CSS, and JavaScri
 - **CSS3** – Styles the application, including the layout, buttons, quiz screens, and progress bar.
 - **JavaScript (Vanilla)** – Handles the quiz questions, user interactions, score calculation, progress updates, and application state.
 
-## Project Structure
-
-```text
-QUiZ-GAME/
-├── index.html    # Application structure
-├── style.css     # Styling and layout
-├── script.js     # Quiz logic and interactions
-└── README.md     # Project documentation
-```
 
 ## Getting Started
 
